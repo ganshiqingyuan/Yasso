@@ -1,4 +1,4 @@
-<h1>👾 Yasso - 亚索 👾</h1>
+<h1>👾 Yasso - 亚索1 👾</h1>
 
 ![go](https://img.shields.io/badge/Go-1.16.4-blue)
 
